@@ -43,3 +43,10 @@ def print_game_boards():
         for x in range(len(track)):
             print(track[y][x],end="")
         print("")
+
+
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()        
